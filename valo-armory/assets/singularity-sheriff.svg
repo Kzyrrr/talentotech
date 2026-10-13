@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" fill="none" role="img" aria-label="Ilustración conceptual de arma futurista">
+  <defs>
+    <linearGradient id="sheen" x1="120" y1="78" x2="510" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#bb9ae6"/><stop offset=".52" stop-color="#a987f2"/><stop offset="1" stop-color="#432b69"/></linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <ellipse cx="365" cy="222" rx="255" ry="14" fill="#e3b7ff" opacity=".18" filter="url(#glow)"/>
+  <g transform="translate(0 -8)">
+    
+        <path d="M142 133 L191 107 L274 105 L305 91 L406 97 L432 112 L501 116 L520 134 L478 148 L416 151 L373 169 L326 173 L312 224 L274 227 L279 172 L220 165 L187 176 L151 163 Z" fill="#111318" stroke="#08090b" stroke-width="6" stroke-linejoin="round"/>
+        <path d="M188 118 L273 115 L301 101 L398 105 L416 116 L369 132 L301 137 L255 148 L204 149 Z" fill="#a987f2"/>
+        <path d="M307 102 L398 106 L416 116 L368 130 L309 132 Z" fill="#bb9ae6"/>
+        <path d="M146 135 L189 117 L204 149 L185 161 L153 158 Z" fill="#432b69"/>
+        <path d="M414 119 L483 122 L501 131 L478 141 L416 144 Z" fill="#a987f2"/>
+        <path d="M282 174 L316 174 L306 219 L279 221 Z" fill="#432b69"/>
+        <path d="M279 178 L294 179 L288 211 L280 213 Z" fill="#e3b7ff"/>
+        <path d="M246 148 L275 145 L284 154 L273 162 L241 160 Z" fill="#e3b7ff"/>
+        <path d="M207 122 L258 119 L266 131 L216 141 Z" fill="#432b69"/>
+        <path d="M333 108 L365 109 L342 121 L316 121 Z" fill="#e3b7ff"/>
+        <path d="M426 121 L473 125 L478 131 L429 132 Z" fill="#432b69"/>
+        <circle cx="338" cy="139" r="5" fill="#e3b7ff"/><circle cx="354" cy="139" r="5" fill="#e3b7ff"/>
+        <path d="M302 90 L313 79 L349 79 L355 92 Z" fill="#432b69" stroke="#e3b7ff" stroke-width="3"/>
+        <path d="M310 83 L347 83" stroke="#e3b7ff" stroke-width="3"/>
+        
+    <path d="M171 166 L171 177 L207 182 L222 177" stroke="#e3b7ff" stroke-width="3" stroke-linecap="round"/>
+    <path d="M526 150 L550 148" stroke="#e3b7ff" stroke-width="2"/>
+  </g>
+  <text x="26" y="274" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#e3b7ff" opacity=".76">SINGULARITY</text>
+  <path d="M26 284H95" stroke="#e3b7ff" stroke-width="2" opacity=".6"/>
+</svg>

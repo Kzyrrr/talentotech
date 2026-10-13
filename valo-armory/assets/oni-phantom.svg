@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="700" height="300" viewBox="0 0 700 300" fill="none" role="img" aria-label="Ilustración conceptual de arma futurista">
+  <defs>
+    <linearGradient id="sheen" x1="120" y1="78" x2="510" y2="235" gradientUnits="userSpaceOnUse"><stop stop-color="#d8c9b9"/><stop offset=".52" stop-color="#f5eee5"/><stop offset="1" stop-color="#9c303b"/></linearGradient>
+    <filter id="glow" x="-30%" y="-60%" width="160%" height="220%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <ellipse cx="365" cy="222" rx="255" ry="14" fill="#ff6c75" opacity=".18" filter="url(#glow)"/>
+  <g transform="translate(0 -8)">
+    
+        <!-- Stock and receiver -->
+        <path d="M67 133 L104 119 L172 120 L195 108 L259 109 L298 92 L438 96 L475 111 L539 117 L594 119 L626 128 L626 145 L577 151 L528 151 L491 164 L430 168 L391 180 L358 202 L337 244 L292 244 L306 186 L247 180 L205 185 L169 176 L111 173 L91 160 L67 160 Z" fill="#101116" stroke="#07080a" stroke-width="7" stroke-linejoin="round"/>
+        <path d="M80 137 L113 127 L169 129 L186 120 L251 120 L294 103 L425 104 L451 116 L523 124 L594 126 L609 132 L604 139 L556 142 L506 145 L473 156 L424 159 L386 174 L355 192 L334 232 L306 232 L320 181 L249 170 L203 174 L170 166 L114 165 L97 155 L80 155 Z" fill="#f5eee5"/>
+        <!-- Upper rail and layered panels -->
+        <path d="M188 120 L254 120 L294 104 L425 105 L452 117 L403 127 L313 130 L271 144 L209 145 L174 137 Z" fill="#d8c9b9"/>
+        <path d="M295 105 L425 106 L451 117 L402 127 L313 130 Z" fill="#f5eee5"/>
+        <path d="M107 132 L169 133 L185 142 L169 161 L113 158 L98 151 Z" fill="#9c303b"/>
+        <path d="M123 137 L165 138 L174 143 L165 149 L126 147 Z" fill="#ff6c75"/>
+        <path d="M204 146 L268 145 L299 133 L385 132 L395 142 L354 154 L300 159 L260 168 L213 164 Z" fill="#9c303b"/>
+        <path d="M218 148 L266 147 L295 137 L353 137 L365 143 L326 151 L280 156 L241 159 Z" fill="#f5eee5"/>
+        <path d="M313 109 L408 109 L427 117 L391 123 L313 124 Z" fill="#ff6c75"/>
+        <path d="M420 128 L491 128 L511 135 L484 143 L426 143 Z" fill="#9c303b"/>
+        <path d="M430 132 L485 132 L495 135 L480 139 L430 139 Z" fill="#d8c9b9"/>
+        <!-- Barrel, muzzle and lower frame -->
+        <path d="M493 124 L586 127 L611 132 L609 140 L526 143 L489 147 Z" fill="#9c303b"/>
+        <path d="M520 128 L596 131 L603 134 L598 137 L523 137 Z" fill="#ff6c75"/>
+        <path d="M603 127 L630 129 L636 134 L632 143 L607 143 Z" fill="#17191f" stroke="#ff6c75" stroke-width="2"/>
+        <path d="M296 180 L335 184 L324 237 L295 238 L309 187 Z" fill="#9c303b" stroke="#0a0b0d" stroke-width="4"/>
+        <path d="M307 190 L321 191 L311 225 L301 226 Z" fill="#ff6c75"/>
+        <!-- Trigger guard and grip details -->
+        <path d="M248 168 L288 170 L290 179 L277 188 L253 185 Z" fill="#101116" stroke="#ff6c75" stroke-width="2"/>
+        <path d="M266 174 L280 175 L276 181 L266 180 Z" fill="#d8c9b9"/>
+        <path d="M377 111 L381 96 L408 96 L416 109 Z" fill="#9c303b" stroke="#ff6c75" stroke-width="2"/>
+        <path d="M386 100 L404 100" stroke="#ff6c75" stroke-width="3"/>
+        <path d="M198 128 L217 127 L208 141 L194 141 Z" fill="#ff6c75"/>
+        <path d="M451 116 L458 109 L479 110 L485 120 Z" fill="#9c303b"/>
+        <path d="M464 114 L476 115" stroke="#ff6c75" stroke-width="3"/>
+        <circle cx="347" cy="147" r="5" fill="#ff6c75"/><circle cx="363" cy="147" r="5" fill="#ff6c75"/>
+        <!-- Edge highlights -->
+        <path d="M112 127 L169 129 L185 120 L251 120 L294 103 L425 104" fill="none" stroke="#ff6c75" stroke-width="2.4" stroke-linecap="round"/>
+        <path d="M217 163 L259 168 L306 165" fill="none" stroke="#d8c9b9" stroke-width="2" opacity=".8"/>
+        
+    <path d="M171 166 L171 177 L207 182 L222 177" stroke="#ff6c75" stroke-width="3" stroke-linecap="round"/>
+    <path d="M526 150 L550 148" stroke="#ff6c75" stroke-width="2"/>
+  </g>
+  <text x="26" y="274" font-family="Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="3" fill="#ff6c75" opacity=".76">ONI</text>
+  <path d="M26 284H95" stroke="#ff6c75" stroke-width="2" opacity=".6"/>
+</svg>
